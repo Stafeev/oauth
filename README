@@ -1,0 +1,6 @@
+Simple Oauth app build with Flask and Bootstrap
+
+To create the database run python database_setup.py
+To add data to DB run database_setup.py
+
+To test the app run python project.py and open localhost:5000
